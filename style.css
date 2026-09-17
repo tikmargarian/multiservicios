@@ -17,8 +17,8 @@ header {
     text-align: center;
     background-image:
         linear-gradient(
-            rgba(0, 0, 0, 0.75),
-            rgba(0, 0, 0, 0.75)
+            rgba(0, 0, 0, 0.60),
+            rgba(0, 0, 0, 0.60)
         ),
         url("./images/bricolage.webp");
     background-position: center;
@@ -236,7 +236,7 @@ header {
     margin-right: 10px;
 }
 
-#next-bt {
+#next-btn {
     margin-left: 10px;
 }
 /* img ligthbox style end */
@@ -477,10 +477,10 @@ footer p {
     text-align: center;
     background-image:
         linear-gradient(
-            rgba(0, 0, 0, 0.75),
-            rgba(0, 0, 0, 0.75)
+            rgba(0, 0, 0, 0.65),
+            rgba(0, 0, 0, 0.65)
         ),
-        url("./images/des-outils-de-bricolage-002.jpg");
+        url("./images/image-for-media.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
